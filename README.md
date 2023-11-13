@@ -7,3 +7,4 @@
   - requests 2.31.0
   - json 2.0.9
   - folium 0.14.0
+  - geopy 2.4.0
