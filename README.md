@@ -1,4 +1,4 @@
-# kickboard_parking_seoul
+# kickboard_towaway_parking_seoul
 서울시 열린데이터광장 공유킥보드 견인신고내역 2년치 및 주차구역 현황 데이터 시각화
 - conda 23.7.4
   - pandas 2.0.3
